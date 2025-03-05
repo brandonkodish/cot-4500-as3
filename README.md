@@ -8,5 +8,7 @@ python3 src/main/assignment_3.py
 ```
 
 My answers were:
+
   Question 1: 1.224638
+  
   Question 2: 1.2513
